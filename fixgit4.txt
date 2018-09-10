@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 fix new git 4
 98 le thuy rieng
 100 Dong du
 102 Nguyen trai
-900 Nguyen du
-
+=======
+>>>>>>> parent of ef0a011... change text
